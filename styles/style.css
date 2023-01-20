@@ -96,8 +96,21 @@
     /* margin-top: 600px; */
 }
 
-.header__text--span {
-    font-size: 21px;
+.header__div--text {
+    font-size: 18px;
     width: 326px;
     height: 52px;
+    display: flex;
+    
+}
+
+.secondflex {
+    background-color: teal;
+    height: 400px;
+    padding: 20px 0;
+}
+.secondflex__child {
+    padding: 20px;
+    background-color:wheat;
+    margin: 1px;
 }
